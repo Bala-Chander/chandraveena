@@ -80,7 +80,8 @@ module.exports = {
             }
           },
           `gatsby-remark-component`,
-          `gatsby-remark-reading-time`
+          `gatsby-remark-reading-time`,
+          `gatsby-remark-prismjs`
         ],
       },
     },
